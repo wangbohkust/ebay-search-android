@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">hw9</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="planets_array">
+        <item>Best Match</item>
+        <item>Price: highest first</item>
+        <item>Price + Shipping: highest first</item>
+        <item>Price + Shipping: lowest first</item>
+    </string-array>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="facebook_app_id">1619471111610257</string>
+</resources>
